@@ -1,0 +1,16 @@
+---------Bells--------
+R = Red
+O = Orange
+Y = Yellow
+L = Lime Green
+G = Green
+T = Turquoise
+B = Blue (dark)
+P = Pink
+W = Wait (no bell) 
+
+---------Note Type-------
+1 = Whole
+2 = Half
+4 = Quarter
+8 = Eighth
